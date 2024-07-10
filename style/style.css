@@ -100,3 +100,24 @@ body{
     padding: 40px;
  }
  /* current target section */
+ /* support section */
+
+.b-image{
+   
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+ }
+ .b-image-content{
+    margin:80px 144px 0px;
+    text-align: center;
+    background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    padding: 64px 48px;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0,0, 0.5);
+ }
+ 
+ /* support section */
