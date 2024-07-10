@@ -78,3 +78,25 @@ body{
  }
  
    /* inspiration section */
+   /* current target section */
+.ct{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+ 
+ }
+ .ct-content{
+    margin:80px 144px 0px;
+ }
+ .ct-content2{
+    display: flex;
+    gap: 24px;
+    text-wrap: wrap;
+ }
+ #cen{
+    text-align: center;
+ }
+ .pad{
+    padding: 40px;
+ }
+ /* current target section */
