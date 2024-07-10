@@ -25,3 +25,35 @@ body{
      border-radius: 8px;
   }
   /* header section ends here */
+   /* why web development section style */
+ .section-container2{
+    width: 100%;
+    height: 100%;
+    margin:0 auto;
+    
+    
+  }
+  #why{
+    text-align: center;
+    
+  }
+  
+   .child{
+    display: flex;
+    justify-content: space-between;
+    
+   }
+   #div1{
+    margin:80px 144px 0px;
+   }
+   .btn-2{
+    padding:8px 10px;
+   }
+   .chi{
+    gap: 390px;
+   }
+   .chil{
+    gap: 100px;
+   }
+   
+   /* why web development section style */
