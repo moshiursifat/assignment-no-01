@@ -7,7 +7,7 @@ body{
      
      height:100%;
      width:100%;
-     background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+     background-image: url(../assets/Hero-bg.png);
      background-repeat: no-repeat;
      background-size: cover;
  }
@@ -41,16 +41,18 @@ body{
    .child{
     display: flex;
     justify-content: space-between;
-    
+    gap:10px;
    }
    #div1{
     margin:80px 144px 0px;
+    
    }
    .btn-2{
     padding:8px 10px;
    }
    .chi{
     gap: 390px;
+    background-color: rgba(13,19,33, 0.02);;
    }
    .chil{
     gap: 100px;
@@ -92,6 +94,7 @@ body{
     display: flex;
     gap: 24px;
     text-wrap: wrap;
+    
  }
  #cen{
     text-align: center;
